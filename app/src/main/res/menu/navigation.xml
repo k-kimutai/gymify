@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/locations"
+        android:icon="@drawable/ic_placeholder"
+        android:title="@string/gyms" />
+
+    <item
+        android:id="@+id/workouts"
+        android:icon="@drawable/ic_calendar1"
+        android:title="@string/workouts" />
+    <item
+        android:id="@+id/instructors"
+        android:icon="@drawable/ic_coach"
+        android:title="@string/instructors"/>
+
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/ic_profiles"
+        android:title="@string/profile"/>
+
+
+
+
+
+</menu>

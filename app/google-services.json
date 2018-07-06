@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "708404739068",
+    "firebase_url": "https://gymify-2feb2.firebaseio.com",
+    "project_id": "gymify-2feb2",
+    "storage_bucket": "gymify-2feb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708404739068:android:c0660819109314c7",
+        "android_client_info": {
+          "package_name": "com.gymify.android.gymify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708404739068-e1c33es5l22o1vpqsi9gnjvpce0m8s7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYkXLZH45zfgAOXTiISjBwXMYuyYSiB6k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
